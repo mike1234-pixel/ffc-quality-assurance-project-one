@@ -2,7 +2,7 @@
 
 # Project Metric Imperial Converter
 
-![metric-imperial-converter-screenshot](https://user-images.githubusercontent.com/57681651/98995538-60a14280-2529-11eb-99da-f3ecc3abd99c.JPG)(https://metric-imperial-converter-1.herokuapp.com/)
+[![metric-imperial-converter-screenshot](https://user-images.githubusercontent.com/57681651/98995538-60a14280-2529-11eb-99da-f3ecc3abd99c.JPG)](https://metric-imperial-converter-1.herokuapp.com/)
 
 ## User Stories
 
