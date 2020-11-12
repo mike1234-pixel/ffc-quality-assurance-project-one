@@ -1,6 +1,9 @@
 function ConvertHandler() {
   
   this.getNum = function(input) {
+    
+    try {
+
     var indexOfFirstLetter = /[a-z]/i.exec(input).index;
     var number = input.slice(0, indexOfFirstLetter);
     if (number.includes('/') && number.includes(".")) {
@@ -17,6 +20,9 @@ function ConvertHandler() {
       number = 1;
     }
     return number;
+  } catch (err) {
+    console.log("catch"+err);
+  }
   }; // ✓
   
   this.getUnit = function(input) {

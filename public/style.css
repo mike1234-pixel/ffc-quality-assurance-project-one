@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  position: relative;
+  background-image: url("./images/mountains.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: black;
+}
+
+#testui {
+  min-width: 250px;
+  max-width: 500px;
+  display: inline-block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+form {
+  padding: 30px;
+  background-color: rgba(224, 219, 219, 0.411);
+}
+
+code {
+  color: white;
+  font-size: 20px;
+}
