@@ -6,7 +6,7 @@
 
 ## User Stories
 
-- Users can enter a number with a shorthand unit metric or imperial unit such as mi or km, and have returned the corresponding metric or imperial value. (example 31mi)
+- Users can enter a number with a shorthand metric or imperial unit such as mi or km, and have returned the corresponding metric or imperial value. (example 31mi)
 
 - If a user's input is invalid returned will be "invalid input".
 
